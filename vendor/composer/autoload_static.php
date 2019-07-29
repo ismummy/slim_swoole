@@ -120,6 +120,8 @@ class ComposerStaticInit9bba65c08e47bc1b7c96c1b49fb52cec
         'App\\Controller\\Controller' => __DIR__ . '/../..' . '/app/Controllers/Controller.php',
         'App\\Controller\\HomeController' => __DIR__ . '/../..' . '/app/Controllers/HomeController.php',
         'App\\Middleware\\IPLogMiddleware' => __DIR__ . '/../..' . '/app/Middlewares/IPLogMiddleware.php',
+        'App\\Model\\HomeModel' => __DIR__ . '/../..' . '/app/Models/HomeModel.php',
+        'App\\Model\\Model' => __DIR__ . '/../..' . '/app/Models/Model.php',
         'Dflydev\\FigCookies\\Cookie' => __DIR__ . '/..' . '/dflydev/fig-cookies/src/Dflydev/FigCookies/Cookie.php',
         'Dflydev\\FigCookies\\Cookies' => __DIR__ . '/..' . '/dflydev/fig-cookies/src/Dflydev/FigCookies/Cookies.php',
         'Dflydev\\FigCookies\\FigRequestCookies' => __DIR__ . '/..' . '/dflydev/fig-cookies/src/Dflydev/FigCookies/FigRequestCookies.php',

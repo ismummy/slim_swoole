@@ -9,6 +9,8 @@ return array(
     'App\\Controller\\Controller' => $baseDir . '/app/Controllers/Controller.php',
     'App\\Controller\\HomeController' => $baseDir . '/app/Controllers/HomeController.php',
     'App\\Middleware\\IPLogMiddleware' => $baseDir . '/app/Middlewares/IPLogMiddleware.php',
+    'App\\Model\\HomeModel' => $baseDir . '/app/Models/HomeModel.php',
+    'App\\Model\\Model' => $baseDir . '/app/Models/Model.php',
     'Dflydev\\FigCookies\\Cookie' => $vendorDir . '/dflydev/fig-cookies/src/Dflydev/FigCookies/Cookie.php',
     'Dflydev\\FigCookies\\Cookies' => $vendorDir . '/dflydev/fig-cookies/src/Dflydev/FigCookies/Cookies.php',
     'Dflydev\\FigCookies\\FigRequestCookies' => $vendorDir . '/dflydev/fig-cookies/src/Dflydev/FigCookies/FigRequestCookies.php',
